@@ -8,7 +8,6 @@
 import numpy as np
 import pandas as pd
 import warnings
-warnings.warn('Make sure you are in the PyViz environment')
 #import plotly as plt
 import os
 from dotenv import load_dotenv
